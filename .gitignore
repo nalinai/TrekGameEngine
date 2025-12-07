@@ -1,10 +1,27 @@
-# Binaries
-**/bin/
-bin-int/
-Intermediates/
+# Build outputs
+*.obj
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
 
-# Visual Studio files and folder
+# Build directories
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Visual Studio files
 .vs/
+*.vcxproj.user
+*.sln.docstates
 
-#files
-*.user
+# Logs and temp files
+*.log
+*.tmp
+
+# OS-specific junk
+Thumbs.db
+Desktop.ini
+.DS_Store
