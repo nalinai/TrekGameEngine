@@ -1,8 +1,31 @@
 # TrekGameEngine
 
-Trek Game engine is engine I created for learning purpose of how to create game engine.
+🎮 **Trek Game Engine** is a learning-focused game engine project designed to explore the fundamentals of game engine development.
 
-for now the aim is to create a simple game engine using GLFW to learn the basics.
+## 📋 Status
+⚠️ **In Progress** - This project is actively under development as a learning journey.
 
-this readme will keep changing as I take decision how to create the engine and the decision I take when I do the learning journey.
+## 📚 Libraries & Dependencies
 
+- **GLFW** - Window management and input handling
+- **GLAD** - OpenGL loader
+- **OpenGL 4.6 Core** - Graphics API
+
+## 🎯 Goals
+
+- Learn the core concepts of game engine architecture
+- Understand graphics programming with modern OpenGL
+- Build a solid foundation for 3D rendering
+- Develop practical experience with game loops and rendering pipelines
+
+## 🚀 Getting Started
+
+*Coming soon...*
+
+## 📝 License
+
+*To be determined*
+
+---
+
+This README will evolve as the project progresses and design decisions are made throughout the learning journey.
